@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-    cout << "OptimizerPrimeWorld" << endl;
+    cout << "OptimizerPrimeWorld !" << endl;
     return 0;
 }
